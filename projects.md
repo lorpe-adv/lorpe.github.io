@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Projects"
+permalink: /projects/
+---
+
 # Featured Analytics Projects
 
 Welcome to my portfolio of analytics projects. Click any project below to expand and learn more.
